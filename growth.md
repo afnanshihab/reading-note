@@ -1,5 +1,7 @@
 # **The benefits of a growth mindset**
 
+
+
   The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
    A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning
@@ -19,5 +21,8 @@
  
 
  
+
+
+https://afnanshihab.github.io/reading-notes/
 
 the end
