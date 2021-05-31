@@ -12,5 +12,8 @@
 |Operators and Loops          |    [Loops](https://afnanshihab.github.io/reading-notes/LOOPS)  |
 |    git          |           [Git](https://afnanshihab.github.io/reading-notes/git)    |
 |   javascript          |           [javascript ](https://afnanshihab.github.io/reading-notes/javascript)    |
+<<<<<<< HEAD
 | functions if JS          |           [functions ](   )    |
 |   CSS          |           [css ](     )    |
+=======
+>>>>>>> 07771aece748e8b5cb75c508c54101ab03543764
