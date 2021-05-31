@@ -14,6 +14,6 @@
 |    git          |           [Git](https://afnanshihab.github.io/reading-notes/git)    |
 |   javascript          |           [javascript ](https://afnanshihab.github.io/reading-notes/javascript)    |
 | functions if JS          |           [functions ](   )    |
-|   CSS          |           [css ](     )    |
+|   CSS          |           [css ](https://afnanshihab.github.io/reading-notes/css     )    |
 
 
