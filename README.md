@@ -11,4 +11,6 @@
 | wireframe             |  [web pages](https://afnanshihab.github.io/reading-notes/wireframe)  |
 |Operators and Loops          |    [Loops](https://afnanshihab.github.io/reading-notes/LOOPS)  |
 |    git          |           [Git](https://afnanshihab.github.io/reading-notes/git)    |
-
+|   javascript          |           [javascript ](https://afnanshihab.github.io/reading-notes/javascript)    |
+| functions if JS          |           [functions ](   )    |
+|   CSS          |           [css ](     )    |
