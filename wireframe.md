@@ -18,4 +18,3 @@ Wireframing is a practice used by UX designers which allows them to define and p
 
 
 ![wireframe](https://1.bp.blogspot.com/-PhyV5GH7jkY/XpjvXknqiwI/AAAAAAAAOjg/CUKFev6qC1EJ_MoRCmcptbRcSlVGTmaTgCLcBGAsYHQ/s1600/UX%2Bdesign%2Bcon%2Blicencia%2Bde%2BAdobeStock_265620187.jpg)
-© 2021 GitHub, Inc.
