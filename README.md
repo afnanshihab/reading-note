@@ -7,8 +7,8 @@
 | name         | link |
 | ------------- | -----:|
 | markdown             |[markdown](https://afnanshihab.github.io/reading-notes/markdown)     |
-| grouth         |[grwth](https://afnanshihab.github.io/reading-notes/growth)    |
-| wireframe             |  (web pages)[https://afnanshihab.github.io/reading-notes/wireframe  |
+| grouth         |[growth](https://afnanshihab.github.io/reading-notes/growth)    |
+| wireframe             |  [web pages](https://afnanshihab.github.io/reading-notes/wireframe)  |
 |Operators and Loops          |    [Loops](https://afnanshihab.github.io/reading-notes/LOOPS)  |
 |              |           |    |
 
