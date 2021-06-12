@@ -359,3 +359,11 @@ visited.
 :visited
 This allows you to set styles for
 links that have been clicked on. 
+
+
+
+resources [www.coursera.org](https://www.coursera.org/courses?query=html)
+
+(HTML & CSS
+Design and Build Websites) book for 
+(jon Ducket)
