@@ -150,14 +150,18 @@ It involves three steps: createEl ement () // it is not yet part of the DOM tree
 
 
 ![](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/images/JS_DOMExample.png)
+If you add HTML to a page using innerHTML (or several jQuery methods), you need to be aware of Cross-Site Scripting Attacks or XSS; otherwise, an attacker could gain access to your users’ accounts.
+Make sure that your users can only input characters they need to use and limit where this content will be shown on the page.
+
 
 ``` // Create a new element and store it in a variable.
 
 
 
-If you add HTML to a page using innerHTML (or several jQuery methods), you need to be aware of Cross-Site Scripting Attacks or XSS; otherwise, an attacker could gain access to your users’ accounts.
-Make sure that your users can only input characters they need to use and limit where this content will be shown on the page.
 
+## Understanding The Problem Domain Is The Hardest Part Of Programming
+reason : because you can’t really see what you are trying to build very clearly.
 
+Programming is easy if you understand the problem domain You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem,The other choice is to become better at understanding problem domains.
 
-
+It is much more expensive and time consuming to do things over than it is to do them right the first time.
