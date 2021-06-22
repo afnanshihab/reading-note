@@ -36,3 +36,5 @@
 | code-201    |     Forms & Events     |  [ Forms & Events](https://afnanshihab.github.io/reading-notes/forms-events)             |
 | code-201    |  JS Debugging         |  [ JS Debugging](https://afnanshihab.github.io/reading-notes/js-debugging)             |
 | code-201    | Assorted topics         |  [ Assorted topics](https://afnanshihab.github.io/reading-notes/assorted-topics)            |
+| code-201    |        |  [](https://afnanshihab.github.io/reading-notes/)            |
+| code-201    | Local Storage        |  [ local storage](https://afnanshihab.github.io/reading-notes/local-storage)            |
