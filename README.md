@@ -1,10 +1,18 @@
-#### hello, Iam Afnan Shihab . Im graduated in 2015 . im from Gaza but live in Jordan . i studied electrical engineering in polytechic university . i have one daughter . I was worked for 3 years as a electrical designer in consultant field and one year in contracting field.
+
+# Reading Notes
 
 
+
+####  hello everyone , Firstly  Iam Afnan Shihab . Im graduated in 2015 . im from Gaza but live in Jordan . i studied electrical engineering in polytechic university . i have one daughter . I was worked for 3 years as a electrical designer in consultant field and one year in contracting field.
+
+
+
+In this page ,I samarized what I read in the ASAC course  . divided them to foure reading notes of the four levels .
 
 
 
 ## my reading notes 102
+##  (Intro to Software Development)
 
 | code       | name         | link |
 | ------------- | ------------- | -----|
@@ -22,6 +30,7 @@
 
 
 ## my reading notes 201
+## ( Foundations of Software Development)
 
 | code       | name         | link |
 | ------------- | ------------- | -----|
@@ -40,3 +49,46 @@
 | code-201    | Local Storage        |  [ local storage](https://afnanshihab.github.io/reading-notes/local-storage)            |
 | code-201    |     Css transforms  |         [ Css transforms ](https://afnanshihab.github.io/reading-notes/css-transforms)   | 
 | code-201    |   Google     |     [Google](https://afnanshihab.github.io/reading-notes/google)        |
+
+
+
+
+
+## my reading notes 301
+## (Intermediate Software Development)
+
+| code          | name          | link |
+| ------------- | ------------- | -----|
+| code-301      |               |      |
+| code-301      |               |      |
+| code-301      |               |      |
+| code-301      |               |      |
+| code-301      |               |      |
+| code-301      |               |      |
+| code-301      |               |      |
+| code-301      |               |      |
+
+
+---------------------------------
+
+
+
+
+## my reading notes 401
+## (Advanced Software Development)
+
+
+| code          | name          | link |
+| ------------- | ------------- | -----|
+| code-401      |               |      |
+| code-401      |               |      |
+| code-401      |               |      |
+| code-401      |               |      |
+| code-401      |               |      |
+| code-401      |               |      |
+| code-401      |               |      |
+| code-401      |               |      |
+
+
+---------------------------------
+
