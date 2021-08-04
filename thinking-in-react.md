@@ -27,3 +27,7 @@ single responsibility principle, that is, a component should ideally only do one
 
 
 resource [Thinking in React ](https://reactjs.org/docs/thinking-in-react.html)
+
+***Things I want to know more about ?***
+
+Knowing more about react and bootsrap and others libraries .
