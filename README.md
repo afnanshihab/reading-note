@@ -66,6 +66,11 @@ In this page ,I samarized what I read in the ASAC course  . divided them to four
 | code-301      |Thinking in React|  [Thinking in React](https://afnanshihab.github.io/reading-notes/thinking-in-react)    |
 | code-301      | Node JS   |  [ Node JS](https://afnanshihab.github.io/reading-notes/nodejs)     |
 | code-301      |  Class07|[Class07](https://afnanshihab.github.io/reading-notes/class07)      |
+| code-301      |Class07|[APIs](https://afnanshihab.github.io/reading-notes/apis)|
+| code-301      |FUNCTIONAL PROGRAMMING|[FUNCTIONAL PROGRAMMING](https://afnanshihab.github.io/reading-notes/functional-programming)|
+| code-301      |               |      |
+| code-301      |               |      |
+| code-301      |               |      |
 | code-301      |               |      |
 
 
